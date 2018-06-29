@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="titles">
+        <item>驾驶</item>
+        <item>自行车</item>
+        <item>步行</item>
+    </array>
+</resources>
